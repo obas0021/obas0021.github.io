@@ -19,7 +19,8 @@ footer {
 }
 
 html { 
-    background-color: #d9d2b6;
+    /* used this colour as its easier on my eye */
+    background-color: #6a7062;
     font-size: 1rem;
 }
 
@@ -34,4 +35,17 @@ article {
 
 form {
     margin-bottom: 20px;
+}
+
+
+.main-container { 
+    background-color: #d9d2b6;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.yes {
+    width: 600px;
+    margin: 0 auto;
 }
