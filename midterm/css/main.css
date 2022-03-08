@@ -50,6 +50,10 @@ form {
     margin-bottom: 20px;
 }
 
+.form-info{
+    width: 75%;
+}
+
 
 .main-container { 
     background-color: #d9d2b6;
